@@ -6,15 +6,15 @@ from korail2 import *
 import time
 import sys
 
-KORAIL_ID = '0443474772'
-KORAIL_PW = 'illb2ack'
+KORAIL_ID = '1140534723'
+KORAIL_PW = 'diddid1!'
 
 PUSHOVER_APP_TOKEN = 'APP_TOKEN'
 PUSHOVER_USER_TOKEN = 'USER_TOKEN'
 
-DEP = '서울'
-ARV = '구포'
-DEP_DATE = '20170709'
+DEP = '창원중앙'
+ARV = '광명'
+DEP_DATE = '20231229'
 DEP_TIME = '100000'
 PSGRS = [AdultPassenger(1)]
 TRAIN_TYPE = TrainType.KTX
